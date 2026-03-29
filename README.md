@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 About Me :<br><br>🔭 I’m currently working on  <br>- Full Stack Web Development Projects<br><br>🌱 I’m currently learning  <br>- JavaScript (Advanced)  <br>- React.js  <br>- Database (MySQL / MongoDB)  <br><br>💬 Ask me about  <br>- HTML, CSS, Basic JavaScript  <br>- Git & GitHub  <br><br>
+👨‍💻 About Me :<br><br>🔭 I’m currently working on  <br>- Full Stack Web Development Projects<br><br>🌱 I’m currently learning  <br>- JavaScript (Advanced)  <br>- React.js  <br>- Database (MySQL)  <br><br>💬 Ask me about  <br>- HTML, CSS, Basic JavaScript  <br>- Git & GitHub  <br><br>
 
 
 ## 🌐 Socials:
